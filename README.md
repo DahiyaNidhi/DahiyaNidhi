@@ -1,4 +1,4 @@
-### Hi there, I'm Nidhi! 👋 
+## Hi there, I'm Nidhi! 👋 
 
 - 📚 Interests: Artificial Intelligence, Machine Learning, Credit Risk Modeling, Financial Analytics.
 - ⚡ Fun fact: I regularly post on Reddit sharing personal takes on almost everything, and also write blogs on Blogger combining the KonMari method with peace.
